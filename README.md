@@ -26,12 +26,12 @@ This Acceptance criteria is presented in a widely recognized format known as sce
 **Then** the following requirements must be met:
 
 - **When** we inspect the source code, 
-<br> **Then** Semantic HTML elements should be used extensively.
+**Then** Semantic HTML elements should be used extensively.
 
 - **When** we structure HTML elements,
 **Then** they must follow a logical hierarchy that is independent of styling and positioning.
 
-* **When** we include images and icons,
+- **When** we include images and icons,
 **Then** they should have appropriate and informative `alt` attributes.
 
 - **When** we arrange heading elements,
