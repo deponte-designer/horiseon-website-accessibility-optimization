@@ -77,6 +77,7 @@ Feel free to explore the code, make modifications, and provide feedback. If you 
 - Articles on Acceptance Criteria:
   - [Acceptance Criteria for User Stories: Purposes, Formats, Examples, and Best Practices](https://www.altexsoft.com/blog/business/acceptance-criteria-purposes-formats-and-best-practices/)
   - [Acceptance Criteria: Why It’s Important and How to Write It](https://blog.american-technology.net/acceptance-criteria/)
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 
 #### For the index.html file
@@ -120,3 +121,33 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+## Features
+
+During the development of this project, I encountered several challenges as it was my first project. I invested a lot of time in research to implement the best methodologies. While the project is functional, there are several features I hope to implement in the future to enhance its quality and user experience:
+
+1. **Improved Image Quality:** I plan to replace current images with higher-quality ones to enhance visual appeal.
+
+2. **Back-to-Top Icon:** Adding a smooth "scroll to top" icon for better navigation on longer pages.
+
+3. **Enhanced User-Friendly Interactions:** Implementing more user-friendly interactions to create a smoother browsing experience.
+
+4. **Animations:** Incorporating subtle animations to make the static website more engaging and visually appealing.
+
+5. **Auto Date in Footer:** Automatically updating the date in the footer, providing a more dynamic feel.
+
+*Your support and feedback are greatly appreciated as I work on these improvements!*
+
+## Deployment
+
+This project is deployed and accessible at the following URLs:
+
+- [Live Application](https://deponte-designer.github.io/horiseon-website-accessibility-optimization): Explore the live version of the website.
+
+- [GitHub Repository](https://github.com/deponte-designer/horiseon-website-accessibility-optimization): Visit the repository for the project, which includes a README describing the details.
+
+
+## Conclusion
+
+>Thank you for visiting the Horiseon Website Accessibility Optimization project. Your support, feedback, and contributions are greatly appreciated as we work to make the web more accessible and user-friendly. If you have any suggestions, issues to report, or ideas for collaboration, please don't hesitate to reach out. Together, we can continue to improve this project and create a better web experience for everyone.
+
+**Happy coding!**
