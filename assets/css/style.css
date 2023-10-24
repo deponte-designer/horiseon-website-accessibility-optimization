@@ -115,8 +115,10 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #09699c; /* Increased the background colour for better contrast with the text */
 }
+/*#2589bd*/
+
 
 .benefit-articles {
     margin-bottom: 32px;
