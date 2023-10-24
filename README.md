@@ -8,6 +8,7 @@ Welcome to the Horiseon Website Accessibility Optimization project repository! T
 Horiseon, a marketing agency, recognizes the importance of providing an accessible and user-friendly website to reach a broader audience and improve search engine rankings. This project aims to achieve this goal by adhering to accessibility standards, using semantic HTML elements, ensuring a logical structure in HTML and CSS, and implementing SEO best practices. I discover the significance of web accessibility through this project, focusing on creating user-friendly websites that meet accessibility standards.
 <br>
 
+
 ## Table of Contents
 
 Use this table of contents to quickly navigate to the information you need:
@@ -28,6 +29,7 @@ Use this table of contents to quickly navigate to the information you need:
 
 **AS A marketing agency, I WANT** a codebase that follows accessibility standards, **SO THAT** our own site is fully optimized for search engines.
 <br>
+
 
 ## Acceptance Criteria
 
@@ -122,24 +124,25 @@ During the development of this project, I encountered several challenges as it w
 
 5. **Auto Date in Footer:** Automatically updating the date in the footer, providing a more dynamic feel.
 
-*Your support and feedback are greatly appreciated as I work on these improvements!*
+>Your support and feedback are greatly appreciated as I work on these improvements!
 <br>
 
 ## Deployment
 
 This project is deployed and accessible at the following URLs:
 
-- [Live Application](https://deponte-designer.github.io/horiseon-website-accessibility-optimization): Explore the live version of the website.
+- [Live Application](https://deponte-designer.github.io/horiseon-website-accessibility-optimization): Explore the demo live version of the website.
 
 - [GitHub Repository](https://github.com/deponte-designer/horiseon-website-accessibility-optimization): Visit the repository for the project, which includes a README describing the details.
 <br>
 
 ## Conclusion
 
->Thank you for visiting the Horiseon Website Accessibility Optimization project. Your support, feedback, and contributions are greatly appreciated as we work to make the web more accessible and user-friendly. If you have any suggestions, issues to report, or ideas for collaboration, please don't hesitate to reach out. Together, we can continue to improve this project and create a better web experience for everyone.
+Thank you for visiting the Horiseon Website Accessibility Optimization project. Your support, feedback, and contributions are greatly appreciated as we work to make the web more accessible and user-friendly. If you have any suggestions, issues to report, or ideas for collaboration, please don't hesitate to reach out. Together, we can continue to improve this project and create a better web experience for everyone.
 
 **Happy coding!**
 <br>
+
 
 ## License
 
@@ -153,6 +156,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 <br>
+
 
 ## Badges
 
