@@ -9,9 +9,9 @@
 </head>
 
 <body>
-    <div class="header">
-        <h1><a href="#top">Hori<span class="seo">seo</span>n</a></h1>
-        <div>
+    <header class="header"> <!-- Updated from <div> to <header> for semantic HTML -->
+        <h1><a href="#top">Hori<span class="seo">seo</span>n</a></h1> <!-- Added anchor element for homepage navigation -->
+        <nav class="nav" role="navigation" aria-label="Main Menu"> <!-- Improved semantics by changing from <div> to <nav>, added 'role' for accessibility, and 'aria-label' for labeling -->
             <ul>
                 <li>
                     <a href="#search-engine-optimization">Search Engine Optimization</a>
@@ -23,8 +23,8 @@
                     <a href="#social-media-marketing">Social Media Marketing</a>
                 </li>
             </ul>
-        </div>
-    </div>
+        </nav>
+    </header>
     <div class="hero"></div>
     <div class="content">
         <div class="search-engine-optimization">
