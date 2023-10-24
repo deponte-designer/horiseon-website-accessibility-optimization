@@ -40,3 +40,12 @@ This Acceptance criteria is presented in a widely recognized format known as sce
 - **When** we provide a title,
 **Then** it should be concise and descriptive.
 
+## Screenshot
+
+![Website Screenshot](./assets/images/horiseon-website-screenshot.png)
+*The image above provides a visual representation of the main page after my Code Refactor for an On-the-job ticket. It showcases both the appearance and functionality of the web application.*
+
+> **note:** This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the Screenshot at a resolution smaller than 768px. 
+
+
+
