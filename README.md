@@ -47,5 +47,49 @@ This Acceptance criteria is presented in a widely recognized format known as sce
 
 > **note:** This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the Screenshot at a resolution smaller than 768px. 
 
+## Usage
+
+To view the Horiseon Website Accessibility Optimization project locally or make use of the code, follow these steps:
+
+1. **Clone the Repository:**
+`git clone https://github.com/deponte-designer/horiseon-website-accessibility-optimization.git`
+
+
+2. **Navigate to the Project Directory:**
+`cd horiseon-website-accessibility-optimization`
+
+
+3. **Open the HTML File:**
+- Locate the `index.html` file in your code editor.
+- Open it in a web browser to view the project.
+
+Feel free to explore the code, make modifications, and provide feedback. If you have suggestions or improvements to share, please don't hesitate to create a pull request or submit an issue on the GitHub repository.
+
+>Your input and contributions are highly valuable, and they will help enhance the project further!
+
+## Credits
+
+### Tutorials and Resources
+
+#### For the README.md file
+
+- [Awesome README examples](https://github.com/matiassingers/awesome-readme)
+- Articles on Acceptance Criteria:
+  - [Acceptance Criteria for User Stories: Purposes, Formats, Examples, and Best Practices](https://www.altexsoft.com/blog/business/acceptance-criteria-purposes-formats-and-best-practices/)
+  - [Acceptance Criteria: Why It’s Important and How to Write It](https://blog.american-technology.net/acceptance-criteria/)
+- [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+
+#### For the index.html file
+
+- [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
+- [Semantic HTML `<main>`](https://www.codecademy.com/resources/docs/html/semantic-html/main)
+- [Bootstrap 4 Navs](https://www.w3schools.com/bootstrap4/bootstrap_navs.asp)
+
+#### For the style.css file
+
+- [Alternate text for background images - Considerations and techniques](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
+- [W3C: Techniques for WCAG 2.0](https://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F3)
+- [CSS Backgrounds](https://www.w3schools.com/css/css_background.asp)
 
 
