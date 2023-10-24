@@ -15,18 +15,18 @@
     <!-- Updated from <div> to <header> for semantic HTML -->
     <header class="header"> 
         <!-- Added anchor element to homepage navigation -->
-        <h1><a href="/horiseon-website-accessibility-optimization">Hori<span class="seo">seo</span>n</a></h1> 
+        <h1><a class="header-logo" title="link" href="/horiseon-website-accessibility-optimization">Hori<span class="seo">seo</span>n</a></h1> 
         <!-- role="navigation" aria-label="Main Menu" Improved semantics by changing from <div> to <nav>, added 'role' for accessibility, and 'aria-label' for labeling -->
         <nav class="nav"> 
             <ul>
                 <li class="nav-item">
-                    <a href="#search-engine-optimization" class="nav-link">Search Engine Optimization</a>
+                    <a class="nav-link" title="link" href="#search-engine-optimization">Search Engine Optimization</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#online-reputation-management" class="nav-link">Online Reputation Management</a>
+                    <a class="nav-link" title="link" href="#online-reputation-management">Online Reputation Management</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#social-media-marketing" class="nav-link">Social Media Marketing</a>
+                    <a class="nav-link" title="link" href="#social-media-marketing">Social Media Marketing</a>
                 </li>
             </ul>
         </nav>
@@ -40,17 +40,17 @@
         <section class="content">
             <!-- Updated from <div> to <article> for semantic HTML -->   
             <article class="content-articles"> <!-- Standardization of classes for semantic structure and reduced repetition in CSS -->
-                <img src="./assets/images/search-engine-optimization.jpg" alt="Image with laptop, notebook, SEO, coffee, and pencils" class="float-left" /> <!-- Enhanced image description in the alt attribute, on all <img> in this document -->
+                <img class="float-left" src="./assets/images/search-engine-optimization.jpg" alt="Image with laptop, notebook, SEO, coffee, and pencils"/> <!-- Enhanced image description in the alt attribute, on all <img> in this document -->
                 <h2>Search Engine Optimization</h2>
                 <p>The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.</p>
             </article>
             <article class="content-articles"> <!-- Removed unnecessary id attribute -->
-                <img src="./assets/images/online-reputation-management.jpg" alt="Image with laptop, reputation graphics on the screen" class="float-right" />
+                <img class="float-right" src="./assets/images/online-reputation-management.jpg" alt="Image with laptop, reputation graphics on the screen"/>
                 <h2>Online Reputation Management</h2>
                 <p>The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.</p>
             </article>
             <article class="content-articles"> <!-- Removed unnecessary id attribute -->
-                <img src="./assets/images/social-media-marketing.jpg" alt="Image with laptops and tablets, icons about social media" class="float-left" />
+                <img class="float-left" src="./assets/images/social-media-marketing.jpg" alt="Image with laptops and tablets, icons about social media"/>
                 <h2>Social Media Marketing</h2>
                 <p>Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.</p>
             </article>

@@ -1,12 +1,11 @@
 # Horiseon Website Accessibility Optimization
 
 Welcome to the Horiseon Website Accessibility Optimization project repository! This repository is dedicated to enhancing the accessibility and search engine optimization (SEO) of the Horiseon website.
-<br>
+
 
 ## Description
 
 Horiseon, a marketing agency, recognizes the importance of providing an accessible and user-friendly website to reach a broader audience and improve search engine rankings. This project aims to achieve this goal by adhering to accessibility standards, using semantic HTML elements, ensuring a logical structure in HTML and CSS, and implementing SEO best practices. I discover the significance of web accessibility through this project, focusing on creating user-friendly websites that meet accessibility standards.
-<br>
 
 
 ## Table of Contents
@@ -23,12 +22,10 @@ Use this table of contents to quickly navigate to the information you need:
 - [License](#license)
 - [Badges](#badges)
 
-<br>
 
 ## User Story
 
 **AS A marketing agency, I WANT** a codebase that follows accessibility standards, **SO THAT** our own site is fully optimized for search engines.
-<br>
 
 
 ## Acceptance Criteria
@@ -53,7 +50,7 @@ This Acceptance criteria is presented in a widely recognized format known as sce
 
 - **When** we provide a title,
 **Then** it should be concise and descriptive.
-<br>
+
 
 ## Screenshot
 
@@ -61,7 +58,7 @@ This Acceptance criteria is presented in a widely recognized format known as sce
 *The image above provides a visual representation of the main page after my Code Refactor for an On-the-job ticket. It showcases both the appearance and functionality of the web application.*
 
 > **note:** This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the Screenshot at a resolution smaller than 768px. 
-<br>
+
 
 ## Usage
 
@@ -80,7 +77,7 @@ To view the Horiseon Website Accessibility Optimization project locally or make 
 Feel free to explore the code, make modifications, and provide feedback. If you have suggestions or improvements to share, please don't hesitate to create a pull request or submit an issue on the GitHub repository.
 
 >Your input and contributions are highly valuable, and they will help enhance the project further!
-<br>
+
 
 ## Credits
 
@@ -108,7 +105,7 @@ Feel free to explore the code, make modifications, and provide feedback. If you 
 
 #### Website Accessibility Testing
 - [Web Accessibility Evaluation Report](https://wave.webaim.org/report#/https://deponte-designer.github.io/horiseon-website-accessibility-optimization/)
-<br>
+
 
 ## Features
 
@@ -125,7 +122,7 @@ During the development of this project, I encountered several challenges as it w
 5. **Auto Date in Footer:** Automatically updating the date in the footer, providing a more dynamic feel.
 
 >Your support and feedback are greatly appreciated as I work on these improvements!
-<br>
+
 
 ## Deployment
 
@@ -134,14 +131,13 @@ This project is deployed and accessible at the following URLs:
 - [Live Application](https://deponte-designer.github.io/horiseon-website-accessibility-optimization): Explore the demo live version of the website.
 
 - [GitHub Repository](https://github.com/deponte-designer/horiseon-website-accessibility-optimization): Visit the repository for the project, which includes a README describing the details.
-<br>
+
 
 ## Conclusion
 
 Thank you for visiting the Horiseon Website Accessibility Optimization project. Your support, feedback, and contributions are greatly appreciated as we work to make the web more accessible and user-friendly. If you have any suggestions, issues to report, or ideas for collaboration, please don't hesitate to reach out. Together, we can continue to improve this project and create a better web experience for everyone.
 
 **Happy coding!**
-<br>
 
 
 ## License
@@ -155,7 +151,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-<br>
 
 
 ## Badges
@@ -172,4 +167,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-<br>
+
